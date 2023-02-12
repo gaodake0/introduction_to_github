@@ -6,3 +6,5 @@ gaodake about learning markdown
 ##### line example
 ###### line example
 done
+# Image of Yaktocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
